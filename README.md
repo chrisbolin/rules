@@ -1,9 +1,9 @@
 ## Some Suggestions for Life
 
-1. Don't worry about things out of your control.
-2. Breathe slowly every now and then.
-3. Don't be arbitrarily above anything or anyone.
-4. Live in intention, not habit.
+* Don't worry about things out of your control.
+* Breathe slowly every now and then.
+* Don't be arbitrarily above anything or anyone.
+* Live in intention, not habit.
 
 ### What is This?
 
