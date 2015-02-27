@@ -4,6 +4,7 @@
 * Breathe slowly every now and then.
 * Don't be arbitrarily above anything or anyone.
 * Live in intention, not habit.
+* Create things.
 
 ### What is This?
 
